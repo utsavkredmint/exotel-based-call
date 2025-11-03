@@ -1,0 +1,40 @@
+2. Offerings Overview:
+   - Distribution / Retailer Finance
+   - Invoice Discounting (ID)
+   - Pre-Invoice Discounting (PID)
+   - Supplier Invoice Discounting (SID)
+   - Term Loans
+
+3. Customer Actions via App/Web:
+   - Loan & financing apply
+   - Documents upload
+   - Loan status track
+   - Repayment schedule check
+   - Continue incomplete applications
+
+4. Product Details:
+   A. Distribution / Retailer Finance
+      - Distributors/retailers ko credit provide kiya jata hai
+      - Eligibility: Registered distributor/retailer, minimum 1-year business, minimum turnover per policy
+      - Documents: Business PAN, GST, bank statements, KYC
+      - Queries: Loan limit, repayment mode
+
+   B. Invoice Discounting (ID)
+      - Raise invoices and get early payment from Kredmint lenders
+      - Documents: Invoice copy, PAN, GST, bank statements, KYC
+      - Queries: Fund transfer time, multiple invoices
+
+   C. Pre-Invoice Discounting (PID)
+      - Working capital based on confirmed purchase orders
+      - Documents: PO copy, KYC, GST, bank statements
+      - Queries: Difference with ID
+
+   D. Supplier Invoice Discounting (SID)
+      - Discount invoices to get early payment
+      - Queries: Delay in buyer payment
+
+   E. Term Loans
+      - Short-to-mid term loans for business expansion
+      - Eligibility: Registered business, 2+ years, positive financials
+      - Documents: PAN, GST, bank statements, financial statements
+      - Queries: Repayment tenure, prepayment
