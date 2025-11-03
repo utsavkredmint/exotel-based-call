@@ -1,0 +1,27 @@
+# Core frameworks
+fastapi==0.115.0
+uvicorn==0.32.0
+streamlit==1.40.0
+
+# HTTP and networking
+requests==2.32.3
+python-dotenv==1.0.1
+pydantic==2.9.0
+websockets >=13.0, <15.0
+
+# Google GenAI SDK
+google-genai==1.0.0
+
+# Audio + Signal processing
+numpy==1.26.4
+scipy==1.14.1
+
+# Utilities
+asyncio==3.4.3
+aiohttp==3.10.10
+
+# Optional (for JSON / logging enhancements)
+orjson==3.10.7
+ 
+
+#  streamlit run app.py
