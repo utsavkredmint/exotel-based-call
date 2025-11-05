@@ -1,7 +1,7 @@
 # ==========================
 #   Stage 1 — Base Image
 # ==========================
-FROM python:3.11-slim AS base
+FROM python:3.13-slim AS base
 
 # Avoid Python buffering stdout/stderr
 ENV PYTHONUNBUFFERED=1 \
