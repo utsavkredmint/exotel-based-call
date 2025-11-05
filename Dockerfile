@@ -27,7 +27,7 @@ RUN pip install --no-cache-dir -r requirement.txt
 COPY . .
 
 # Expose Streamlit default port
-EXPOSE 8501
+EXPOSE 8000
 
 # ==========================
 #   Stage 2 — Production Run
